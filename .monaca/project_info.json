@@ -1,0 +1,12 @@
+{
+    "plugins": [
+        "mobi.monaca.plugins.Monaca",
+        "org.apache.cordova.splashscreen",
+        "org.apache.cordova.statusbar",
+        "org.apache.cordova.geolocation"
+    ],
+    "framework_version": "3.5",
+    "xcode_version": "6",
+    "cordova_version": "3.5",
+    "plugin_settings": []
+}
